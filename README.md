@@ -6,6 +6,13 @@ Created by Solucky48.
 
 ---
 
+## Source Code
+
+You can view, clone, or contribute to the project files here:
+[Luckycord Source Code Repository](https://github.com/Solucky48/LuckyCord-Source-Code)
+
+---
+
 ## Features
 
 * Pure P2P Network Architecture: Direct peer-to-peer connection ensures lower latency and server-independent private chats.
